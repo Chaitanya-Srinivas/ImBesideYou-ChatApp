@@ -3,7 +3,7 @@
 .App {
   min-height: 100vh;
   display: flex;
-  background-image: url("./background.png");
+  background-image: url("https://cdn.pixabay.com/photo/2012/04/13/01/23/moon-31665_640.png");
   background-position: center;
   background-size: cover;
 }
