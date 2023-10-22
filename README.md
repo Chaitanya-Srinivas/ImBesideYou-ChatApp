@@ -1,23 +1,51 @@
-# ImBesideYou-ChatApp
+## Introduction
 
-### My name is Dommeti Chaitanya Srinivas
-### 3rd year UnderGraduate from Electronics and Electrical Communication Engineering Department
-### I am from Visakhapatnam, Andhra Pradesh
+Hello, I'm Dommeti Chaitanya Srinivas (21EC10021) , a 3rd-year Undergraduate student from the Electronics and Electrical Communication Engineering Department at IIT Kharagpur. Welcome to the ImBesideYou-ChatApp!
 
-Steps to run this code
+ImBesideYou-ChatApp is a web application that allows you to maintain an account by registering. After registering, it redirects you to the chats page. You can search for other users to chat with using keywords from either the recipient's name or email ID. By clicking on the "Go" button, you can get a list of matched users from the app and start chatting with them. 
 
-#### git clone https://github.com/Chaitanya-Srinivas/ImBesideYou-ChatApp.git
+## Features
 
-#### cd frontend
+- **User Registration**: Create an account by registering.
 
-#### npm i --f
+- **User Chat**: Search and chat with other users using keywords from their name or email ID.
 
-#### npm start 
-/*starts frontend*/
+- **Group Chat**: Create group chats, add participants, remove participants, and have combined discussions.
 
-#### cd backend
+- **Leave Groups**: You have the option to leave groups when you no longer wish to be part of them.
 
-### npm i --f
+## Getting Started
 
-### npm run start 
-/* to start backend*/
+To run this code, follow these simple steps:
+
+### Frontend Setup
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/Chaitanya-Srinivas/ImBesideYou-ChatApp.git
+2. Change directory
+   ```shell
+   cd frontend
+3. Install required packages
+   ```shell
+   npm i --f
+4. Start the frontend
+   ```shell
+   npm start
+5. Open new terminal
+6. Change directory
+   ```shell
+   cd backend
+7. Install required packages
+   ```shell
+   npm i --f
+8. May be required to install express cors mongoose if not installed above
+   ```shall
+   npm i mongoose cors express
+9. Start the backend
+   ```shell
+   npm run start
+
+Explore the app.....
+   
