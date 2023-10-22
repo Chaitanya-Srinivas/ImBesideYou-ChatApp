@@ -18,34 +18,40 @@ ImBesideYou-ChatApp is a web application that allows you to maintain an account 
 
 To run this code, follow these simple steps:
 
-### Frontend Setup
+### Setup
 
 1. Clone the repository:
 
    ```shell
    git clone https://github.com/Chaitanya-Srinivas/ImBesideYou-ChatApp.git
+
+### Backend
 2. Change directory
    ```shell
-   cd frontend
+   cd backend
 3. Install required packages
    ```shell
    npm i --f
-4. Start the frontend
+4. May be required to install express cors mongoose if not installed above
+   ```shall
+   npm i mongoose cors express
+5. Start the backend
    ```shell
-   npm start
-5. Open new terminal
-6. Change directory
+   npm run start
+
+### Frontend
+
+6. Open new terminal
+   
+7. Change directory
    ```shell
-   cd backend
+   cd frontend
 7. Install required packages
    ```shell
    npm i --f
-8. May be required to install express cors mongoose if not installed above
-   ```shall
-   npm i mongoose cors express
-9. Start the backend
+8. Start the backend
    ```shell
-   npm run start
+   npm start
 
 Explore the app.....
    
