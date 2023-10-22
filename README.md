@@ -8,14 +8,14 @@ Steps to run this code
 
 #### git clone https://github.com/Chaitanya-Srinivas/ImBesideYou-ChatApp.git
 
-### cd frontend
+#### cd frontend
 
-### npm i --f
+#### npm i --f
 
-### npm start 
+#### npm start 
 /*starts frontend*/
 
-### cd backend
+#### cd backend
 
 ### npm i --f
 
